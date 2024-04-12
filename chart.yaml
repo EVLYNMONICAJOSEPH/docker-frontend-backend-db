@@ -1,4 +1,0 @@
-apiVersion: v2
-name: my-chart       # Change this to your desired chart name
-version: 0.1.0       # Change this to your desired chart version
-description: A Helm chart for deploying My Application  # Change this to your desired chart description
